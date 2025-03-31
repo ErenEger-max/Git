@@ -1,4 +1,7 @@
 # Hello, world!
-I like play volleyball.
-*Spaciba Dima2134124312
+I like play:
+ volleyball
+ football
+hockey
+basketball
 Russia is great again!!!
